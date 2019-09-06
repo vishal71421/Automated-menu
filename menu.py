@@ -1,3 +1,4 @@
+print
 import os
 import getpass
 import subprocess as sp
