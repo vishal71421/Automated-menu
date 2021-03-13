@@ -2,3 +2,5 @@ This project is basically designed for the people who are new to linux and don't
 Machine Learning, so we have created an Automated menu for them 
 
 so today i am learning basics of git
+new line added
+
